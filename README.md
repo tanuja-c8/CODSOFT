@@ -32,7 +32,7 @@ This repository contains all **four tasks** completed during the internship unde
 - Measured accuracy and model performance
 - Prediction on new unseen data
 
-🔹 Task 4: Sales Prediction using Python
+### 🔹 Task 4: Sales Prediction using Python
 📈 Predict sales based on advertising spending on **TV, Radio, and Newspaper**.
 
 ✨ Key Highlights:
